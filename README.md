@@ -17,8 +17,8 @@ Hawk ($HVK) is a play-to-earn token that's part of the TON (The Open Network) fa
 
 ## 🚀 Getting Started
 
-Begin your Havencoin journey by following these steps:
-1. Install the Havencoin app on Telegram.
+Begin your Hawkcoin journey by following these steps:
+1. Install the Hawkcoin app on Telegram.
 2. Set up your wallet.
 3. Start playing and earning rewards!
 
@@ -29,7 +29,7 @@ To run HAWKCOIN locally or contribute to its development, follow these setup ins
 ## 💖 Support Us
 
 Support our project by donating to:
-- **BNB/ETH/POLYGON**: `0x3A06322e9F1124F6B2de8F343D4FDce4D1009869`
+- **BNB/ETH/POLYGON**: `0x6DB6687c2cDB0AeE9E481786B325989432dfaCC1`
 
 ## ❓ FAQ
 
