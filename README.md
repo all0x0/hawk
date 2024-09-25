@@ -1,8 +1,8 @@
-# Havencoin
+# Hawkcoin
 
 ![Havencoin Banner](git/img/IMG_6932.PNG)
 
-Havencoin ($HVN) is a play-to-earn token that's part of the TON (The Open Network) family. It has been capturing attention thanks to its addictive gameplay and ease of use through the Telegram app.
+Hawk ($HVK) is a play-to-earn token that's part of the TON (The Open Network) family. It has been capturing attention thanks to its addictive gameplay and ease of use through the Telegram app.
 
 ## 🚀 Features
 
@@ -12,8 +12,8 @@ Havencoin ($HVN) is a play-to-earn token that's part of the TON (The Open Networ
 
 ## 🔗 Quick Links
 
-- 📃 [Project Planning](https://github.com/orgs/RexxBlockchain/projects/1) - Our roadmap and team plans.
-- 📘 [Token Details](https://github.com/rexxweb3/RexxBlockchain/wiki/$HVN) - Comprehensive info about $HVN tokens.
+- 📃 [Project Planning](https://github.com/all0x0/hawk.git) - Our roadmap and team plans.
+- 📘 [Token Details](https://github.com/all0x0/hawk.git)) - Comprehensive info about $HVN tokens.
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Begin your Havencoin journey by following these steps:
 
 ## 🛠 Developer Setup
 
-To run Havencoin locally or contribute to its development, follow these setup instructions found in the [Developer Setup Guide](instructions/developer.md).
+To run HAWKCOIN locally or contribute to its development, follow these setup instructions found in the [Developer Setup Guide](instructions/developer.md).
 
 ## 💖 Support Us
 
@@ -33,7 +33,7 @@ Support our project by donating to:
 
 ## ❓ FAQ
 
-**Q: How do I earn $HVN?**
+**Q: How do I earn $HVK?**
 A: Play games through our Telegram app.
 
 **Q: What can I do with $HVN tokens?**
