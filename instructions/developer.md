@@ -1,7 +1,7 @@
 
 # Developer Setup
 
-To run Havencoin locally or contribute to its development, follow these setup instructions:
+To run Hawkcoin locally or contribute to its development, follow these setup instructions:
 
 ### Prerequisites
 - Python 3.8+
@@ -12,8 +12,8 @@ To run Havencoin locally or contribute to its development, follow these setup in
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rexxweb3/Havencoin.git
-   cd Havencoin
+   [git clone https://github.com/all0x0/hawk.git
+   cd hawk
    ```
 
 2. **Setup a virtual environment:**
